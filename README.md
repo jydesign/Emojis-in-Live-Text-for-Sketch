@@ -8,8 +8,9 @@ _Preview of Sketch file:_
 ## Suggested uses
 * To include Emojis as part of your layer, group or symbol name
 * To use Emojis as icons / artwork (layers or symbols)
-* To use Emojis when mocking up Messaging apps or other interfaces where you want to simulate their real-world use.
+* To include Emojis alongside regular text, when mocking up Messaging apps or other interfaces where you'd want to simulate how people use Emojis in a sentence or paragraph.
 
 ### Credits:
 
-*PiliApp - Twitter Symbols* was an extremely helpful resource in creating this file: [https://www.piliapp.com/twitter-symbols/](https://www.piliapp.com/twitter-symbols/)
+* [PiliApp - Twitter Symbols](https://www.piliapp.com/twitter-symbols/) was an extremely helpful resource in creating this file
+* Related but different: [Emojipsum Sketch plugin](https://github.com/Kuchengnom/emojipsum-Sketch-Plugin)
