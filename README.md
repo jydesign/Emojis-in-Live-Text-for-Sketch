@@ -13,11 +13,11 @@ _Preview of Sketch file:_
 
 ### No 💩 Sherlock:
 
-I am aware, as you may also be, that another way to get to Emojis in Sketch is insert text then key in:
+I am aware, as you may also be, that another way to get to Emojis in Sketch is to insert text and then key in:
 
 > `Ctrl Cmd Space`
 
-But I still felt bored enough to make this file 🤓.
+But I still felt like this file would be useful for seeing all at once 🤓.
 
 #### Credits:
 
