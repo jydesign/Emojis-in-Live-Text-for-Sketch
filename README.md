@@ -23,3 +23,4 @@ But I still felt like this file would be useful for seeing all at once 🤓.
 
 * [PiliApp - Twitter Symbols](https://www.piliapp.com/twitter-symbols/) was an extremely helpful resource in creating this file
 * Related but different: [Emojipsum Sketch plugin](https://github.com/Kuchengnom/emojipsum-Sketch-Plugin)
+* [EmojiCopy](http://emojicopy.com/), Simple emoji copy and paste by EmojiOne™
